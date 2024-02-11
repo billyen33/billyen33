@@ -7,7 +7,7 @@ I am a Ph.D. student at Stanford University studying Electrical Engineering. I p
 
 I am passionate about low power systems, energy harvesting, and sustainable IoT. I've worked with
 
-- :sparkles: Prof. Zerina Kapetanovic at the [Stanford Smart Sensing Systems Lab](https://kapetanovic.sites.stanford.edu/) on ultra-low power communication using thermal noise
+- :sparkles: Prof. Zerina Kapetanovic at the [Stanford Smart Sensing Systems Lab](https://kapetanovic.sites.stanford.edu/) on ultra-low power communication
 - :satellite: Prof. Josiah Hester at [Ka Moamoa Lab](https://kamoamoa.com/) on backscatter-enabled low power wireless sensors
 - :battery: Prof. George Wells at [WE BioME Lab](https://www.wells.northwestern.edu/) on robust soil microbial fuel cell design
 - :seedling: Planter Innovation Team at [CNH Industrial](https://www.cnhindustrial.com/) on mobile, multi-depth soil moisture and temperature sensors
