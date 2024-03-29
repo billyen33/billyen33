@@ -5,7 +5,7 @@
 
 I am a Ph.D. student at Stanford University studying Electrical Engineering. I previously graduated from Northwestern University with a B.S. in Mechanical Engineering, minor in Environmental Engineering, and the Segal Design Certificate.
 
-I am passionate about low power systems, energy harvesting, and sustainable IoT. I've worked with
+I am passionate about low power systems, energy harvesting, and sustainable IoT. I've worked with:
 
 - :sparkles: Prof. Zerina Kapetanovic at the [Stanford Smart Sensing Systems Lab](https://kapetanovic.sites.stanford.edu/) on ultra-low power communication
 - :satellite: Prof. Josiah Hester at [Ka Moamoa Lab](https://kamoamoa.com/) on backscatter-enabled low power wireless sensors
